@@ -12,7 +12,7 @@ html{
     font-family: 'Source Sans Pro', sans-serif;
 }
 
-p,a{
+p,a,li{
     font-size: 1.8rem;
 }
 
@@ -55,6 +55,11 @@ h6{
     "header header header"
     "content content content"
     "footer footer footer";
+}
+
+.margintb-5{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 header{

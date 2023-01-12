@@ -67,6 +67,12 @@
     flex-direction: column;
     width: 20%;
 }
+#main .main-container-blog .right li,
+#main .main-container-blog .right a{
+    color:rgb(38, 88, 163);
+    text-decoration: none;
+    
+}
 
 .main-container .blog-card{
     text-align: left;
